@@ -16,3 +16,4 @@ myMean <- function(assignment2) {
 }
 
 myMean(assignment2)
+#Blog Link https://www.blogger.com/blog/post/edit/7491998236395229028/1275882447718015504
